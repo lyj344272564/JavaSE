@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSE.iml" filepath="$PROJECT_DIR$/.idea/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou/lagou.iml" filepath="$PROJECT_DIR$/lagou/lagou.iml" />
       <module fileurl="file://$PROJECT_DIR$/面向对象/面向对象.iml" filepath="$PROJECT_DIR$/面向对象/面向对象.iml" />
     </modules>
   </component>
