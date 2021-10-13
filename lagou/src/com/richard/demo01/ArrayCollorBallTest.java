@@ -1,5 +1,6 @@
 package com.richard.demo01;
 
+import java.util.Arrays;
 import java.util.Random;
 /**
  * 实现双色球抽奖游戏中奖号码的生成，中奖号码由6个红球号码和1个蓝球号码组成。
